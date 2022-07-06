@@ -52,7 +52,7 @@ I am a computer science graduate at [Centro Universitário do Piauí](https://un
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/marcos-pach%C3%AAco/)
 </p>
 
 | <a href="https://github.com/Marcos-Pacheco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Pacheco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcos Pachêco's github stats" /></a> | <a href="https://github.com/Marcos-Pacheco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Pacheco&layout=compact&theme=buefy&hide_border=true" /></a> |
